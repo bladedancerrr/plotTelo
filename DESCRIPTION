@@ -1,0 +1,10 @@
+Package: plotTelo
+Type: Package
+Title: Plotting Telomeric Regions
+Version: 0.1.0
+Author: Ayesha Ahmed
+Maintainer: Ayesha Ahmed <ayeshaa1@student.unimelb.edu.au>
+Description: Plots the telomeric regions in the human chromosomes from your input data. It does this in the form of rectangular markers above the chromsomes.
+License: The MIT License
+Encoding: UTF-8
+LazyData: true

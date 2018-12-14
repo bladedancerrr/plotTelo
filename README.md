@@ -14,6 +14,10 @@ Install the plotTelo R package this Github repository.
 
 Use the plotTelo function with a URL to your raw **bed** file OR a file path to your local bed file.
 
+```plotTelo(/home/User/data/myData.bed)```
+OR
+```plotTelo(raw.github.com/myrepo/mydata.bed)``` *(please be careful to link to your RAW data, and not a HTML page!)* 
+
 You must use the bed file format for your input data, meaning the data should look something like this:
 ```
 chr10_f	10001	10428
@@ -40,9 +44,7 @@ chr4_r	190204510	190204555
 ```
 
 
-```plotTelo(/home/User/data/myData.bed)```
-OR
-```plotTelo(raw.github.com/myrepo/mydata.bed)``` *(please be careful to link to your RAW data, and not a HTML page!)* 
+
 
 
 

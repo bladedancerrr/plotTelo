@@ -12,11 +12,11 @@ Have the packages ```dplyr```, ```tidyr```, and ```karyoploteR``` installed befo
 
 Install the plotTelo R package this Github repository.
 
-Use the plotTelo function with a URL to your raw bed file OR a file path to your local bed file.
+Use the plotTelo function with a URL to your raw ###bed file OR a file path to your local bed file.
 
 ```plotTelo(/home/User/data/myData.bed)```
 OR
-```plotTelo(raw.github.com/myrepo/mydada.bed)``` (please be careful to link to your RAW data, and not a HTML page!) 
+```plotTelo(raw.github.com/myrepo/mydata.bed)``` (please be careful to link to your RAW data, and not a HTML page!) 
 
 
 

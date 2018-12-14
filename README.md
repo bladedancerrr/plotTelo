@@ -16,11 +16,11 @@ Use the plotTelo function with a URL to your raw **bed** file OR a file path to 
 
 You must use the bed file format for your input data, meaning the data should look something like this:
 
-`chr10_f	10001	10428`
-`chr10_r	133787067	133787422`
-`chr11_r	135076565	135076622
-chr12_f	10001	10584`
-`chr12_r	133264873	133265309
+`chr10_f	10001	10428
+chr10_r	133787067	133787422
+chr11_r	135076565	135076622
+chr12_f	10001	10584
+chr12_r	133264873	133265309
 chr13_r	114353946	114354328
 chr15_r	101980767	101981189
 chr16_f	10001	10052

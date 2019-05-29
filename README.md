@@ -10,7 +10,7 @@ in the human chromosomes with user-defined .bed data.
 Have the packages ```dplyr```, ```tidyr```, and ```karyoploteR``` installed before.
 (using the ```install.packages('packageName')``` command)
 
-Install the plotTelo R package this Github repository.
+Install the plotTelo R package (using the link to this Github repository).
 
 Use the plotTelo function with a URL to your raw **bed** file OR a file path to your local bed file.
 
